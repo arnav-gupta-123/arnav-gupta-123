@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi%20👋,%20I'm%20Arnav!"/>
 </p>
-<h1 align="left" style="font-size: 36px;">📚 ECE & CS @ Duke University</h1>
+<h1 align="left" style="font-size: 36px;">📚 Studying ECE & CS at Duke University</h1>
 
 <br>
 
