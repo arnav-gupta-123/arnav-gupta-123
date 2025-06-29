@@ -1,6 +1,7 @@
 # Hey👋, I'm Arnav!
 
 ## 📚 Studying ECE & CS at Duke University
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://arnavgdev.github.io/)
 
 ## 🛠️ Languages & Tools I've Used
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
